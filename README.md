@@ -7,5 +7,5 @@ I have coursework and/or experience in C++, Python, ARM Assembly, Arduino progra
 - > "Never fold in poker"
 - > "Sometimes in life, you have to create your own luck"
 #### This is where I see myself in 10 years if AI takes over: 
-![Electrical Engineer Fighting AI](https://raw.githubusercontent.com/Andrej084/CPE-322/main/DALL·E 2025-01-27 23.14.14 - A determined electrical engineer, dressed in a futuristic protective suit with tool belts, circuit boards, and a glowing visor, standing ready to batt.webp)
+![Electrical Engineer Fighting AI](https://raw.githubusercontent.com/Andrej084/CPE-322/main/DALL·E 2025-01-27 23.14.14 - A determined electrical engineer, dressed in a futuristic protective suit with tool belts, circuit boards, and a glowing visor, standing ready to batt.webp.jpg)
 

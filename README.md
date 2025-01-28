@@ -6,3 +6,5 @@ I have coursework and/or experience in C++, Python, ARM Assembly, Arduino progra
 - > "Most men go fishing their whole lives without realizing it is not fish they are after"
 - > "Never fold in poker"
 - > "Sometimes in life, you have to create your own luck"
+#### This is where I see myself in 10 years if AI takes over: 
+![alt text](image.jpg)

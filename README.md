@@ -1,4 +1,4 @@
-#** CPE-322
+#** CPE-322**
 ##** ABOUT ME
 I'm a third-year electrical engineering major, with an aspire to have a concentration of telecommunication systems and eventually earn a masters in EE. 
 I have coursework and/or experience in C++, Python, ARM Assembly, Arduino programming, and Embedded C.
